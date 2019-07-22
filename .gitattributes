@@ -1,7 +1,0 @@
-*.xml linguist-language=Android
-
-*.java linguist-language=Android
-
-*.c linguist-language=Android
-
-*.cpp linguist-language=Android
